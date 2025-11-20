@@ -54,13 +54,38 @@ Deep learning project improving a CNN baseline through:
 
 ---
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 
-**Languages:** Python · SQL  
-**ML/AI:** scikit-learn · Keras/TensorFlow · XGBoost · PCA · K-Means  
-**Data Engineering:** Pandas · NumPy · SQL Server · ETL · SCD2 · DW/Star Schema · BigQuery  
-**Visualization:** Power BI · Matplotlib · Seaborn  
-**Tools:** Git · GitHub · Docker · Flask · APIs · JupyterLab · VS Code · NAS deployment
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white)
+
+### **Data & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00A65A?logo=xgboost&logoColor=white)
+
+### **Data Engineering**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4B8BBE?logo=apacheairflow&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-003B57?logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+
+### **Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?logo=python&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
