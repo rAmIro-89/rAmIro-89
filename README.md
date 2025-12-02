@@ -19,7 +19,7 @@ End-to-end Data Warehouse for retail cellphone sales:
 - Slowly Changing Dimensions (Type 2)  
 - RFM segmentation and ABC/Pareto  
 - Advanced SQL insights  
-**Repo:** [https://github.com/rAmIro-89/retail-sales-data-warehouse-sql](https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored)
+**Repo:** [https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
 
 ---
 
