@@ -4,7 +4,6 @@
 
 I'm a Data Analyst with strong interest in Machine Learning, Financial Analytics, and Data Engineering.  
 I focus on building end-to-end data projects using SQL, Python, Machine Learning and analytics engineering best practices.
-ices.
 
 
 ---
