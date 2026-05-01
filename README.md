@@ -90,7 +90,7 @@ Deep learning project improving a CNN baseline through:
 
 ## 🎯 Current Focus
 - Building and refining a strong GitHub portfolio  
-- Completing my **Technicatura in Data Science & AI**  
+- Completing my **Advanced Diploma-level program in Data Science and Artificial Intelligence**, along with the **Google Advanced Data Analytics Professional Certificate.**  
 - Expanding into ML, Business Intelligence and Financial Analytics  
 - Improving documentation and reproducibility practices  
 - Incorporating BigQuery ML & cloud data pipelines
