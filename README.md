@@ -22,7 +22,7 @@ End-to-end Data Warehouse for retail cellphone sales:
 
 ---
 
-### 💬 Finance Assistant Chatbot (Flask + WAS + Docker + NAS)
+### 💬 Finance Assistant Chatbot (Flask + WhatsApp/Twilio + Docker + NAS)
 Chatbot running in production with:  
 - Python + Flask API  
 - WhatsApp + Twilio integration  
