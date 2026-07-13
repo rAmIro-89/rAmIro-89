@@ -88,4 +88,3 @@ Git, GitHub, Jupyter, Docker, VS Code.
 - Email: ramiroottonevillar@gmail.com
 - LinkedIn: [www.linkedin.com/in/ramiro-ottone-villar](https://www.linkedin.com/in/ramiro-ottone-villar)
 - GitHub: [https://github.com/rAmIro-89](https://github.com/rAmIro-89)
-n8n, Google Forms, Google Sheets, APIs, Ollama, Telegram.
