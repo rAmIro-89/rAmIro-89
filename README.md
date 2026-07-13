@@ -1,4 +1,4 @@
-![Ramiro Ottone Villar — Data & Business Intelligence Portfolio](assets/smartfare-social-preview.jpg)
+[Ramiro Ottone Villar — Data & Business Intelligence Portfolio](assets/smartfare-social-preview.jpg)
 
 # Hi, I'm Ramiro 👋
 
