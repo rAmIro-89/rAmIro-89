@@ -22,19 +22,19 @@ Simulated retail business case for cellphone sales, modeled as an end-to-end Dat
 
 ---
 
-### 💬 Finance Assistant Chatbot (Flask + WhatsApp/Twilio + Docker + NAS)
-Finance assistant chatbot project focused on experimentation and portfolio demonstration with:
+### 💬 Finance Assistant Chatbot (Flask + WhatsApp/Twilio + Docker)
+Academic/portfolio finance assistant prototype focused on experimentation and documentation with:
 - Python + Flask API
 - WhatsApp + Twilio integration
-- Docker-based local/server setup
+- Dockerized development setup
 - SQLite/SQLAlchemy database
-- Conversation flows, dashboards and logs for learning and analysis
+- Sample conversation flows, dashboards and logs for learning and analysis
 **Repo:** https://github.com/rAmIro-89/finance-assistant-bot
 
 ---
 
 ### 📈 Gold Market & Macroeconomic Analysis (2014–2024)
-Exploratory financial time-series and macro analysis; findings are presented as descriptive patterns and correlations, not causal relationships:
+Exploratory financial time-series and macro analysis. Findings are framed as descriptive patterns and correlations only, not as causal conclusions:
 - Gold, DXY, VIX, WTI, inflation, interest rates
 - China GDP, global reserves, debt and volatility
 - Exploratory correlations, QoQ trends, and drawdown analysis
