@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/portfolio-social-preview.jpg"
+  <img src="./portfolio-social-preview.jpg"
        alt="Ramiro Ottone Villar — Data & Business Intelligence Portfolio"
        width="100%">
 </p>
