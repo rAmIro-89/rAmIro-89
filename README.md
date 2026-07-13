@@ -1,39 +1,15 @@
 # Hi, I'm Ramiro 👋
-### Data Analytics · Machine Learning · Financial Data · SQL · Python
-**Data Science & AI Student (Technicatura Superior)**
+### Data Analytics · Business Intelligence · Financial Analytics · Process Automation · Applied AI
 
-I'm a Data Analyst with strong interest in Machine Learning, Financial Analytics, and Data Engineering.
-I focus on building end-to-end data projects using SQL, Python, Machine Learning and analytics engineering best practices.
+I completed a five-semester, 2.5-year post-secondary diploma program in Data Science and Artificial Intelligence in June 2026.
 
+I'm focused on Data Analytics, Business Intelligence, Financial Analytics, Process Automation, and Applied AI. I build portfolio projects with SQL, Python, dashboards, automation workflows, and machine-learning methods, with an emphasis on clear documentation and reproducibility.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Retail Sales Data Warehouse (SQL + ETL + SCD2 + Analytics)
-Simulated retail business case for cellphone sales, modeled as an end-to-end Data Warehouse project:
-- OLTP → DW pipeline
-- Star Schema design
-- ETL processes
-- Slowly Changing Dimensions (Type 2)
-- RFM segmentation and ABC/Pareto
-- Advanced SQL insights
-**Repo:** https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
-
----
-
-### 💬 Finance Assistant Chatbot (Flask + WhatsApp/Twilio + Docker)
-Academic/portfolio finance assistant prototype focused on experimentation and documentation with:
-- Python + Flask API
-- WhatsApp + Twilio integration
-- Dockerized development setup
-- SQLite/SQLAlchemy database
-- Sample conversation flows, dashboards and logs for learning and analysis
-**Repo:** https://github.com/rAmIro-89/finance-assistant-bot
-
----
-
-### 📈 Gold Market & Macroeconomic Analysis (2014–2024)
+### 📈 Gold Market & Macroeconomic Analysis
 Exploratory financial time-series and macro analysis. Findings are framed as descriptive patterns and correlations only, not as causal conclusions:
 - Gold, DXY, VIX, WTI, inflation, interest rates
 - China GDP, global reserves, debt and volatility
@@ -43,17 +19,63 @@ Exploratory financial time-series and macro analysis. Findings are framed as des
 
 ---
 
-### 🧠 Image Classification with CNN (Keras)
-Deep learning project improving a CNN baseline through:
-- Enhanced architecture
+### 📌 Retail Sales Data Warehouse — SQL & Python
+Simulated retail business case for cellphone sales, modeled as a Data Warehouse project:
+- OLTP → DW pipeline
+- Star Schema design
+- ETL processes with SQL and Python
+- Slowly Changing Dimensions (Type 2)
+- RFM segmentation and ABC/Pareto analysis
+- SQL-based KPI and analytics queries
+**Repo:** https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
+
+---
+
+### ✈️ SmartFare Tracker — n8n Automation and Applied AI
+Functional MVP for flight-fare monitoring and alerting, with documented limitations and local setup requirements:
+- n8n workflow orchestration
+- Google Forms / Google Sheets configuration layer
+- SerpAPI Google Flights integration
+- Deterministic scoring rules for alert decisions
+- Ollama-generated explanations for alerts
+- Telegram notifications
+**Repo:** https://github.com/rAmIro-89/smartfare-tracker-n8n
+
+---
+
+### 💳 Credit Score Classification
+Academic machine-learning case study for multi-class credit score classification:
+- Exploratory data analysis and preprocessing
+- Feature engineering and train/test split workflow
+- Decision Tree, Random Forest, and KNN model comparison
+- GridSearchCV hyperparameter tuning
+- Evaluation with accuracy, precision, recall, F1-score, ROC curves, and confusion matrices
+**Repo:** https://github.com/rAmIro-89/credit-score-classification-ml
+
+---
+
+### 💬 Finance Assistant 24/7
+Academic/portfolio prototype for financial education assistance, not a production system:
+- Python + Flask API
+- WhatsApp + Twilio integration
+- Dockerized development setup
+- SQLite/SQLAlchemy database
+- Sample conversation flows, dashboards and logs for learning and analysis
+**Repo:** https://github.com/rAmIro-89/finance-assistant-bot
+
+---
+
+### 🧠 Image Classification with CNNs — Keras
+Academic CNN project using CIFAR-10 with Keras/TensorFlow:
+- Convolutional neural network architecture
 - BatchNorm + Dropout
-- Callbacks & logs
-- Clean structure (src/, notebooks/, models/)
+- Training callbacks and logs
+- Committed result: 80.85% test accuracy and 0.7088 test loss
 **Repo:** https://github.com/rAmIro-89/image-classification-cnn-keras
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -65,13 +87,12 @@ Deep learning project improving a CNN baseline through:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00A65A?logo=xgboost&logoColor=white)
 
-### **Data Engineering**
+### **Data Engineering & Automation**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-4B8BBE?logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4B8BBE)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-003B57?logo=databricks&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
 ### **Visualization**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
@@ -89,11 +110,10 @@ Deep learning project improving a CNN baseline through:
 ---
 
 ## 🎯 Current Focus
-- Building and refining a strong GitHub portfolio
-- Completing my **Advanced Diploma-level program in Data Science and Artificial Intelligence**, along with the **Google Advanced Data Analytics Professional Certificate.**
-- Expanding into ML, Business Intelligence and Financial Analytics
-- Improving documentation and reproducibility practices
-- Incorporating BigQuery ML & cloud data pipelines
+- Google Advanced Data Analytics Professional Certificate in progress
+- Business Intelligence, Financial Analytics, Process Automation and Applied AI
+- Portfolio documentation and reproducibility
+- Strengthening SQL, Python, dashboarding, automation and applied ML workflows
 
 ---
 
