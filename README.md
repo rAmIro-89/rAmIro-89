@@ -1,8 +1,8 @@
-# Hi, I'm Ramiro 👋  
-### Data Analytics · Machine Learning · Financial Data · SQL · Python  
+# Hi, I'm Ramiro 👋
+### Data Analytics · Machine Learning · Financial Data · SQL · Python
 **Data Science & AI Student (Technicatura Superior)**
 
-I'm a Data Analyst with strong interest in Machine Learning, Financial Analytics, and Data Engineering.  
+I'm a Data Analyst with strong interest in Machine Learning, Financial Analytics, and Data Engineering.
 I focus on building end-to-end data projects using SQL, Python, Machine Learning and analytics engineering best practices.
 
 
@@ -11,44 +11,44 @@ I focus on building end-to-end data projects using SQL, Python, Machine Learning
 ## 🚀 Featured Projects
 
 ### 📌 Retail Sales Data Warehouse (SQL + ETL + SCD2 + Analytics)
-End-to-end Data Warehouse for retail cellphone sales:  
-- OLTP → DW pipeline  
-- Star Schema design  
-- ETL processes  
-- Slowly Changing Dimensions (Type 2)  
-- RFM segmentation and ABC/Pareto  
-- Advanced SQL insights  
-**Repo:** [https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
+Simulated retail business case for cellphone sales, modeled as an end-to-end Data Warehouse project:
+- OLTP → DW pipeline
+- Star Schema design
+- ETL processes
+- Slowly Changing Dimensions (Type 2)
+- RFM segmentation and ABC/Pareto
+- Advanced SQL insights
+**Repo:** https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
 
 ---
 
 ### 💬 Finance Assistant Chatbot (Flask + WhatsApp/Twilio + Docker + NAS)
-Chatbot running in production with:  
-- Python + Flask API  
-- WhatsApp + Twilio integration  
-- Docker deployment  
-- SQLite/SQLAlchemy database  
-- Real conversations, dashboards and logs  
+Finance assistant chatbot project focused on experimentation and portfolio demonstration with:
+- Python + Flask API
+- WhatsApp + Twilio integration
+- Docker-based local/server setup
+- SQLite/SQLAlchemy database
+- Conversation flows, dashboards and logs for learning and analysis
 **Repo:** https://github.com/rAmIro-89/finance-assistant-bot
 
 ---
 
 ### 📈 Gold Market & Macroeconomic Analysis (2014–2024)
-Financial time-series and macro analysis:  
-- Gold, DXY, VIX, WTI, inflation, interest rates  
-- China GDP, global reserves, debt and volatility  
-- Correlations, QoQ trends, drawdown analysis  
-- Power BI dashboards + Python notebooks  
+Exploratory financial time-series and macro analysis; findings are presented as descriptive patterns and correlations, not causal relationships:
+- Gold, DXY, VIX, WTI, inflation, interest rates
+- China GDP, global reserves, debt and volatility
+- Exploratory correlations, QoQ trends, and drawdown analysis
+- Power BI dashboards + Python notebooks
 **Repo:** https://github.com/rAmIro-89/gold-market-macroeconomic-analysis
 
 ---
 
 ### 🧠 Image Classification with CNN (Keras)
-Deep learning project improving a CNN baseline through:  
-- Enhanced architecture  
-- BatchNorm + Dropout  
-- Callbacks & logs  
-- Clean structure (src/, notebooks/, models/)  
+Deep learning project improving a CNN baseline through:
+- Enhanced architecture
+- BatchNorm + Dropout
+- Callbacks & logs
+- Clean structure (src/, notebooks/, models/)
 **Repo:** https://github.com/rAmIro-89/image-classification-cnn-keras
 
 ---
@@ -89,17 +89,17 @@ Deep learning project improving a CNN baseline through:
 ---
 
 ## 🎯 Current Focus
-- Building and refining a strong GitHub portfolio  
-- Completing my **Advanced Diploma-level program in Data Science and Artificial Intelligence**, along with the **Google Advanced Data Analytics Professional Certificate.**  
-- Expanding into ML, Business Intelligence and Financial Analytics  
-- Improving documentation and reproducibility practices  
+- Building and refining a strong GitHub portfolio
+- Completing my **Advanced Diploma-level program in Data Science and Artificial Intelligence**, along with the **Google Advanced Data Analytics Professional Certificate.**
+- Expanding into ML, Business Intelligence and Financial Analytics
+- Improving documentation and reproducibility practices
 - Incorporating BigQuery ML & cloud data pipelines
 
 ---
 
-## 📫 Contact  
-📧 Email: **ramiroottonevillar@gmail.com**  
-💼 LinkedIn: *(to be added)*  
+## 📫 Contact
+📧 Email: **ramiroottonevillar@gmail.com**
+💼 LinkedIn: https://www.linkedin.com/in/ramiro-ottone-villar
 
 ---
 
