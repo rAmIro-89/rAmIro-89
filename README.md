@@ -1,5 +1,6 @@
-[Ramiro Ottone Villar — Data & Business Intelligence Portfolio](assets/smartfare-social-preview.jpg)
-
+<p align="center">
+  <img src="assets/smartfare-social-preview.jpg" alt="Ramiro Ottone Villar — Data & Business Intelligence Portfolio" width="100%">
+</p>
 # Hi, I'm Ramiro 👋
 
 ### Data & BI Analyst · Financial Analytics · SQL · Python · Power BI · Automation & Applied AI
