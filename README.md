@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/smartfare-social-preview.jpg" alt="Ramiro Ottone Villar — Data & Business Intelligence Portfolio" width="100%">
+  <img src="./assets/portfolio-social-preview.jpg"
+       alt="Ramiro Ottone Villar — Data & Business Intelligence Portfolio"
+       width="100%">
 </p>
 
 # Hi, I'm Ramiro 👋
