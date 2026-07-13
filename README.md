@@ -1,3 +1,5 @@
+![Ramiro Ottone Villar — Data & Business Intelligence Portfolio](assets/portfolio-banner.png)
+
 # Hi, I'm Ramiro 👋
 
 ### Data & BI Analyst · Financial Analytics · SQL · Python · Power BI · Automation & Applied AI
