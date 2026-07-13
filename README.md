@@ -21,6 +21,16 @@ Technologies: Python, pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI.
 
 Evidence: Documents correlations, regression analysis, risk metrics, and multi-source data preparation across gold, inflation, rates, and FX series.
 
+### [Retail Sales Data Warehouse](https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored)
+End-to-end data warehouse project that models retail sales data from OLTP sources into a BI-ready analytical layer.
+
+Technologies: SQL Server, Python, ETL, dimensional modelling, star schema, SCD Type 2.
+
+Evidence: Includes multi-currency logic, data-quality validation, RFM segmentation, ABC/Pareto analysis, and reproducible setup instructions.
+
+### [Credit Score Classification](https://github.com/rAmIro-89/credit-score-classification-ml)
+End-to-end classifier prototype for credit score prediction, with preprocessing, feature engineering, and business-oriented model comparison.
+
 Technologies: Python, pandas, NumPy, Scikit-learn, Jupyter.
 
 Evidence: Preserves the reported test accuracy, cross-validation accuracy, macro F1-score, class-level metrics, AUC values, bootstrap results, and confusion-matrix findings.
